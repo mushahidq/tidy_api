@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+#cassandra-secure-connect-bundle
+secure-connect-test-db.zip
