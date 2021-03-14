@@ -22,7 +22,7 @@ Other requests that can be made include:
 * Node.js
 * Express.js
 * Datastax Astra
-* [Linode](172.104.206.61/objects)
+* [Linode](https://172.104.206.61/objects)
 * Firebase(Not deployed- had some errors with billing)
 
 ## Examples
